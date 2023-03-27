@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">App Chat</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="restore_password">Forgot your account password? Restore!</string>
+    <string name="enter_email">Enter email address</string>
+    <string name="enter_password">Enter password</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="create_new_account">CREATE NEW ACCOUNT</string>
+    <string name="add_image">ADD IMAGE</string>
+    <string name="fullname">Enter fullname</string>
+    <string name="date_birth">Enter date birth</string>
+    <string name="fragmentSignUp_confirm_password">Confirm password</string>
+    <string name="fragmentSignUp_back">BACK</string>
+    <string name="fragmentSignUp_sign_up">SIGN UP</string>
+
+    <string name="fragmentRestorePassword_restore_password">RESTORE PASSWORD</string>
+    <string name="fragmentRestorePassword_email">Enter email address</string>
+    <string name="fragmentRestorePassword_back">BACK</string>
+    <string name="fragmentRestorePassword_restore">RESTORE</string>
+</resources>
